@@ -1,4 +1,4 @@
-# 👋 Hi there!!
+# 👋 Hi there!
 
 # 💫 About Me:
 🔭 I currently have experience making small websites<br>🌱 I'm deepening my studies in React<br>💬 Ask me about cybersecurity and networks!
