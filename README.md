@@ -4,7 +4,7 @@
 🔭 I currently have experience making small websites<br>🌱 I'm deepening my studies in React<br>💬 Ask me about cybersecurity and networks!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/josue.vileraa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josuévilera/) 
 
 # 💻 Tech Stack:
@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josuevilera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josuevilera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
